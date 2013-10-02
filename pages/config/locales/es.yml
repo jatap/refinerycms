@@ -35,7 +35,7 @@ es:
       pages:
         delete: Borrar esta página para siempre
         edit: Editar esta página
-        new: Añadir una nueva página hija
+        new: Añadir una nueva sub página
         expand_collapse: Expandir o contraer las sub páginas
         page:
           view_live_html: Ver esta página como abierta al público<br/><em>(la abre en ventana nueva)</em>
